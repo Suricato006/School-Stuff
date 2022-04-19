@@ -1,0 +1,10 @@
+Scrivere il numero di input
+5 
+Scrivere i numeri di cui trovare il corrispettivo nella sequenza di Fibonacci
+17 13 2 30 28
+F(17) = 1597
+F(13) = 233
+F(2) = 1
+F(30) = 832040
+F(28) = 317811
+Somma di tutte le cifre dei numeri = 69

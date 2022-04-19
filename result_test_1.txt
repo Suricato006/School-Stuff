@@ -1,0 +1,15 @@
+Scrivere il numero di input
+10
+Scrivere i numeri di cui trovare il corrispettivo nella sequenza di Fibonacci
+85 77 63 79 33 53 56 52 27 50
+F(85) = 2.5969549691112e+017
+F(77) = 5.5279397008848e+015
+F(63) = 6557470319842
+F(79) = 1.4472334024676e+016
+F(33) = 3524578
+F(53) = 53316291173
+F(56) = 225851433717
+F(52) = 32951280099
+F(27) = 196418
+F(50) = 12586269025
+Somma di tutte le cifre dei numeri = 534
