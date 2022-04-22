@@ -1,0 +1,5 @@
+Scrivere il numero di input
+10
+Scrivere i valori da controllare
+-5 -4 -2 12 -40 4 2 18 11 5
+Il numero piu' vicino allo 0 tra quelli forniti e' 2
